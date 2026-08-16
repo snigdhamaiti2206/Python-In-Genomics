@@ -1,0 +1,73 @@
+Sequence successfully loaded!
+Sequence length: 2512 bases
+
+========== CODON USAGE ANALYSIS ==========
+
+Total Codons: 837
+
+Codon    Count      Frequency   
+--------------------------------
+AAA      10         0.0119
+AAC      8          0.0096
+AAG      2          0.0024
+AAT      7          0.0084
+ACA      9          0.0108
+ACC      11         0.0131
+ACG      1          0.0012
+ACT      14         0.0167
+AGA      18         0.0215
+AGC      13         0.0155
+AGG      17         0.0203
+AGT      5          0.0060
+ATA      3          0.0036
+ATC      8          0.0096
+ATG      8          0.0096
+ATT      6          0.0072
+CAA      21         0.0251
+CAC      26         0.0311
+CAG      20         0.0239
+CAT      18         0.0215
+CCA      31         0.0370
+CCC      27         0.0323
+CCG      12         0.0143
+CCT      13         0.0155
+CGA      8          0.0096
+CGC      2          0.0024
+CGG      8          0.0096
+CGT      8          0.0096
+CTA      9          0.0108
+CTC      25         0.0299
+CTG      18         0.0215
+CTT      20         0.0239
+GAA      14         0.0167
+GAC      8          0.0096
+GAG      15         0.0179
+GAT      9          0.0108
+GCA      9          0.0108
+GCC      21         0.0251
+GCG      10         0.0119
+GCT      14         0.0167
+GGA      26         0.0311
+GGC      19         0.0227
+GGG      16         0.0191
+GGT      14         0.0167
+GTA      5          0.0060
+GTC      14         0.0167
+GTG      8          0.0096
+GTT      11         0.0131
+TAA      7          0.0084
+TAC      9          0.0108
+TAG      6          0.0072
+TAT      7          0.0084
+TCA      8          0.0096
+TCC      19         0.0227
+TCG      2          0.0024
+TCT      16         0.0191
+TGA      19         0.0227
+TGC      16         0.0191
+TGG      22         0.0263
+TGT      19         0.0227
+TTA      7          0.0084
+TTC      11         0.0131
+TTG      13         0.0155
+TTT      37         0.0442

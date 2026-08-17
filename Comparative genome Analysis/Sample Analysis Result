@@ -1,0 +1,10 @@
+%runfile C:/Users/snigd/.spyder-py3/temp.py --wdir
+
+========== COMPARATIVE GENOME ANALYSIS ==========
+
+     Bacteria  Genome Length   GC %        A        T        G        C
+0      E_coli        4215606  43.51  1188073  1193137   915112   919284
+1    Bacillus        4215606  43.51  1188073  1193137   915112   919284
+2  Salmonella        4857450  52.22  1160904  1159903  1268221  1268422
+
+Results saved successfully!
